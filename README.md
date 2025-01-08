@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @baduritsko
 - 📫 How to reach me :
 - Web : https://www.cafe-it.fr
-- LinkedIn : www.linkedin.com/in/plateforme-smc-caryl
+- LinkedIn : www.linkedin.com/in/caryl-dev
 
 
 <!---
